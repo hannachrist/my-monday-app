@@ -16,26 +16,3 @@ code {
   box-sizing: border-box;
   margin: 0px;
 }
-
-.frame {
-  margin: 10px 30px;
-  border: 1px dotted #024249;
-}
-
-.frame_content {
-  display: flex; 
-    justify-content: center; 
-    align-items: center;
-  background-color: #def4f0;  
-}
-
-.frame_content img {
-  border-radius: 50%;
-  margin: 20px 0px;
-}
-
-.frame_header {
-  background-color: #58b4ae;
-  height: 70px;
-  padding: 10px;
-}
